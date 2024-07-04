@@ -1,4 +1,6 @@
-# Hi there, I'm Angela (Kyung-Hei) 👋
+<div align="center">
+<h1> Hi there, I'm Angela (Kyung-Hei) 👋 </h1>
+</div>
 
 📫 How to reach me: angelakh.seo@gmail.com
 
