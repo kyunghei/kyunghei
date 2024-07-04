@@ -2,6 +2,9 @@
 
 📫 How to reach me: angelakh.seo@gmail.com
 
+### Connect with me:
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/kyung-angela)
+
 ### 🛠️ Skills
 - **Languages:** Python, JavaScript, SQL, HTML5, C
 - **Frameworks:** React, Node.js, Express.js, jQuery, Bootstrap, Flask
