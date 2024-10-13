@@ -11,7 +11,7 @@
 
 ### 🛠️ Skills
 - **Languages:** Python, JavaScript, SQL, HTML5, C
-- **Frameworks:** React, Node.js, Express.js, jQuery, Bootstrap, Flask
+- **Frameworks:** React, Node.js, Express.js, jQuery, Bootstrap, Flask, Django
 - **Tools:** Git, Visual Studio Code
 
 ### 📈 GitHub Stats
